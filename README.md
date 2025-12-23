@@ -50,5 +50,5 @@
 ## Submission Details
 *   **App Name**: MindWell
 *   **GitHub Repository**: [Insert your GitHub Link Here]
-*   **Developed by**: [Your Name/ID]
+*   **Developed by**: [John Robert Gaufo, Mark Henry Galosmo, Christian Frades]
 
