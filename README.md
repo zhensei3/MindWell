@@ -49,6 +49,6 @@
 
 ## Submission Details
 *   **App Name**: MindWell
-*   **GitHub Repository**: [Insert your GitHub Link Here]
-*   **Developed by**: [John Robert Gaufo, Mark Henry Galosmo, Christian Frades]
+*   **GitHub Repository**: https://github.com/zhensei3/MindWell/tree/main
+*   **Developed by**: John Robert Gaufo, Mark Henry Galosmo, Christian Frades
 
